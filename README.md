@@ -10,10 +10,8 @@
 
 | Matrícula | Nome | GitHub |
 | :--- | :--- | :--- |
-| - | Integrante 1 | [@usuario1](https://github.com/) |
-| - | Integrante 2 | [@usuario2](https://github.com/) |
-| - | Integrante 3 | [@usuario3](https://github.com/) |
-| - | Integrante 4 | [@usuario4](https://github.com/) |
+| - 222008468 | Danilo Sarmento Barros | [@auslogyc](https://github.com/auslogyc) |
+
 
 ---
 
