@@ -1,21 +1,16 @@
 ﻿{
-  "name": "g06-busca-eda2-liveguard",
+  "name": "g06-busca-eda2-auto-organizavel",
   "version": "1.0.0",
-  "description": "LiveGuard - Filtro Anti-Spam e Moderação em Tempo Real com Tabelas Hash Auto-organizáveis (EDA2 - 2026.2)",
-  "main": "src/cli/index.js",
+  "description": "Sistema de Cache de Contatos com Busca Sequencial Auto-Organizável (Move-to-Front) - EDA2",
+  "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "node src/cli/index.js",
-    "benchmark": "node src/benchmark/comparador.js",
-    "test": "node --test tests/*.test.js"
+    "start": "node src/index.js"
   },
   "keywords": [
     "eda2",
-    "hashing",
-    "move-to-front",
-    "transposicao",
-    "hash-duplo",
-    "anti-spam"
+    "busca sequencial",
+    "move-to-front"
   ],
   "author": "Grupo 06 - EDA2",
   "license": "MIT"
