@@ -36,7 +36,7 @@ O algoritmo simula o mecanismo de **Contatos Frequentes e Histórico Recente** u
 ---
 
 ## 🎥 Vídeo de Apresentação
-- **Link do Vídeo (até 5 min):** [Clique aqui para assistir ao vídeo no YouTube/Loom](https://link-do-seu-video-aqui)
+- **Link do Vídeo (até 5 min):** [Clique aqui para assistir ao vídeo no YouTube/Loom](https://youtu.be/QMVBnEGpuxQ)
 
 ---
 
